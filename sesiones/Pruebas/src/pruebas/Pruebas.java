@@ -2,27 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package conceptosbasicos;
-
-import ico.fes.lenovo.Procesador;
+package pruebas;
 
 /**
  *
  * @author herma
  */
-public class ConceptosBasicos {
+public class Pruebas {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Procesador cpu = new Procesador();
-        cpu.setFrecuencia(5.3f);
-        System.out.println(cpu);
-        
-// TODO code application logic here
+        // TODO code application logic here
     }
-    
-  
     
 }
